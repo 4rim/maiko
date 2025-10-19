@@ -1,0 +1,2 @@
+# maiko
+[100rabbits](https://100r.co/site/home.html) has this excellent drawing program [noodle](https://hundredrabbits.itch.io/noodle) written in [uxntal](https://wiki.xxiivv.com/site/uxntal.html) for the [varvara](https://wiki.xxiivv.com/site/varvara.html) system. noodle is only capable of saving files in the [.icn format](https://wiki.xxiivv.com/site/icn_format.html), so this program converts them into BMPs. one can further convert using a program like [imagemagick](https://imagemagick.org/).
